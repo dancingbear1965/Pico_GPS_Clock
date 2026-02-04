@@ -22,9 +22,9 @@ This project implements a MicroPython-based GPS clock, displaying live GPS data 
 
 ## Hardware Requirements
 - MicroPython-compatible board (e.g., Raspberry Pi Pico)
-- ST7789V SPI color display
-- GPS module (UART)
-- HT16K33 I2C segment display (for time)
+- ST7789V SPI color display https://www.amazon.co.uk/dp/B081Q79X2F
+- GPS module (UART) https://www.amazon.co.uk/dp/B0FJLXZ3J9
+- HT16K33 I2C segment display (for time) https://thepihut.com/products/adafruit-0-56-4-digit-7-segment-display-w-i2c-backpack-white?variant=27739182161
 
 
 ## File Overview
