@@ -1,8 +1,9 @@
 
-
 # Pico GPS Clock
 
 This project implements a MicroPython-based GPS clock, displaying live GPS data on both an ST7789V color LCD and a 4-digit 7-segment display (HT16K33). Designed for the Raspberry Pi Pico (or similar), with GPS and display modules.
+Thanks to Jeff Geerling for posting a YouTube video https://youtu.be/E5qA4fgdS28?si=43sDkBAGlA567bbp about creating a GPS-Pico clock. From his insiration this extended version was born.
+The 3D print files for the case can be downloaded from here. https://makerworld.com/en/models/2351534-10-inch-1u-pico-gps-clock#profileId-2571810
 
 ![Complete Clock Assembly](images/1U_10_inch_GPS-Pico_Clock.png)
 
